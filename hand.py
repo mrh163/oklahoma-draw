@@ -47,7 +47,7 @@ class OKHand(OKCardSet):
 		d = {}
 		for r in byr:
 			lr = len(byr[r])
-			if r == OKRank.TWO or (not include_singletons and lr < 2)
+			if r == OKRank.TWO or (not include_singletons and lr < 2):
 				continue
 			d.update({r : lr})
 		return d
@@ -144,7 +144,8 @@ class OKHand(OKCardSet):
 		elif self.n_wilds() > 0:
 			return True
 	
-		config = json.load(open("config.json", "r"))
+		with open("config.json", "r") as fp:
+			config = json.load(fp)
 		lowest_qualifying_kicker = OKRank(config["lowest_qualifying_kicker"])
 		kickers = [c for c in self.get_cards() if c.r >= lowest_qualifying_kicker and c.r != OKRank.ACE]
 		return len(kickers) > 0

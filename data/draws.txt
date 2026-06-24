@@ -1,0 +1,1800 @@
+[[Hand 0]]
+Before draw:
+♣: 3K
+♢: J
+♡: Q
+♠: 9
+
+[High Card]
+
+After draw:
+♣: -
+♢: QK
+♡: 339
+♠: -
+
+[One Pair]
+
+
+[[Hand 1]]
+Before draw:
+♣: 26
+♢: J
+♡: 7
+♠: 3
+
+[One Pair]
+
+After draw:
+♣: 23
+♢: J
+♡: T
+♠: 5
+
+[One Pair]
+
+
+[[Hand 2]]
+Before draw:
+♣: 25
+♢: 3A
+♡: 5
+♠: -
+
+[Three Of A Kind]
+
+After draw:
+♣: 245
+♢: K
+♡: 5
+♠: -
+
+[Three Of A Kind]
+
+
+[[Hand 3]]
+Before draw:
+♣: 8
+♢: K
+♡: 67
+♠: 2
+
+[One Pair]
+
+After draw:
+♣: J
+♢: Q
+♡: 7
+♠: 26
+
+[One Pair]
+
+
+[[Hand 4]]
+Before draw:
+♣: 25A
+♢: A
+♡: 6
+♠: -
+
+[Three Of A Kind]
+
+After draw:
+♣: 26A
+♢: A
+♡: -
+♠: K
+
+[Three Of A Kind]
+
+
+[[Hand 5]]
+Before draw:
+♣: 4
+♢: -
+♡: 569J
+♠: -
+
+[High Card]
+
+After draw:
+♣: -
+♢: -
+♡: 569JQ
+♠: -
+
+[Flush]
+
+
+[[Hand 6]]
+Before draw:
+♣: 56
+♢: 7
+♡: QK
+♠: -
+
+[High Card]
+
+After draw:
+♣: 8Q
+♢: 33
+♡: K
+♠: -
+
+[One Pair]
+
+
+[[Hand 7]]
+Before draw:
+♣: 7
+♢: Q
+♡: J
+♠: 8T
+
+[High Card]
+
+After draw:
+♣: K
+♢: -
+♡: 35
+♠: 4Q
+
+[High Card]
+
+
+[[Hand 8]]
+Before draw:
+♣: J
+♢: 2
+♡: 2
+♠: 2Q
+
+[Four Of A Kind]
+
+After draw:
+♣: -
+♢: 25
+♡: 26
+♠: 2
+
+[Four Of A Kind]
+
+
+[[Hand 9]]
+Before draw:
+♣: TT
+♢: 7
+♡: 3
+♠: 8
+
+[One Pair]
+
+After draw:
+♣: TTQ
+♢: 7K
+♡: -
+♠: -
+
+[One Pair]
+
+
+[[Hand 10]]
+Before draw:
+♣: 6
+♢: QKA
+♡: -
+♠: J
+
+[High Card]
+
+After draw:
+♣: 6
+♢: KA
+♡: 9
+♠: J
+
+[High Card]
+
+
+[[Hand 11]]
+Before draw:
+♣: 3J
+♢: -
+♡: 7
+♠: 34
+
+[One Pair]
+
+After draw:
+♣: 3
+♢: -
+♡: KA
+♠: 37
+
+[One Pair]
+
+
+[[Hand 12]]
+Before draw:
+♣: 58K
+♢: -
+♡: 2
+♠: 2
+
+[Flush]
+
+After draw:
+♣: 4Q
+♢: T
+♡: 2
+♠: 2
+
+[Three Of A Kind]
+
+
+[[Hand 13]]
+Before draw:
+♣: 5K
+♢: 67
+♡: -
+♠: 8
+
+[High Card]
+
+After draw:
+♣: K
+♢: 67
+♡: 8
+♠: 8
+
+[One Pair]
+
+
+[[Hand 14]]
+Before draw:
+♣: 24JQ
+♢: K
+♡: -
+♠: -
+
+[One Pair]
+
+After draw:
+♣: 247JQ
+♢: -
+♡: -
+♠: -
+
+[Flush]
+
+
+[[Hand 15]]
+Before draw:
+♣: 4A
+♢: 8
+♡: -
+♠: 22
+
+[Three Of A Kind]
+
+After draw:
+♣: J
+♢: T
+♡: Q
+♠: 22
+
+[Straight]
+
+
+[[Hand 16]]
+Before draw:
+♣: T
+♢: J
+♡: 3K
+♠: Q
+
+[High Card]
+
+After draw:
+♣: 2
+♢: J
+♡: 3K
+♠: Q
+
+[One Pair]
+
+
+[[Hand 17]]
+Before draw:
+♣: 67
+♢: -
+♡: 3K
+♠: K
+
+[One Pair]
+
+After draw:
+♣: Q
+♢: 2
+♡: 9K
+♠: K
+
+[Three Of A Kind]
+
+
+[[Hand 18]]
+Before draw:
+♣: -
+♢: 9Q
+♡: 66
+♠: T
+
+[One Pair]
+
+After draw:
+♣: A
+♢: -
+♡: 66J
+♠: J
+
+[Two Pair]
+
+
+[[Hand 19]]
+Before draw:
+♣: -
+♢: 6
+♡: A
+♠: 78J
+
+[High Card]
+
+After draw:
+♣: 35
+♢: 5
+♡: A
+♠: T
+
+[One Pair]
+
+
+[[Hand 20]]
+Before draw:
+♣: -
+♢: 246
+♡: J
+♠: Q
+
+[One Pair]
+
+After draw:
+♣: -
+♢: 25
+♡: -
+♠: 69Q
+
+[One Pair]
+
+
+[[Hand 21]]
+Before draw:
+♣: 8
+♢: 4
+♡: 4TA
+♠: -
+
+[One Pair]
+
+After draw:
+♣: -
+♢: 4
+♡: 4
+♠: 47K
+
+[Three Of A Kind]
+
+
+[[Hand 22]]
+Before draw:
+♣: TT
+♢: 7J
+♡: -
+♠: 3
+
+[One Pair]
+
+After draw:
+♣: 7TT
+♢: 3
+♡: -
+♠: 5
+
+[One Pair]
+
+
+[[Hand 23]]
+Before draw:
+♣: 3
+♢: 6
+♡: T
+♠: 5J
+
+[High Card]
+
+After draw:
+♣: T
+♢: -
+♡: 8J
+♠: 79
+
+[Straight]
+
+
+[[Hand 24]]
+Before draw:
+♣: -
+♢: K
+♡: 44J
+♠: 3
+
+[One Pair]
+
+After draw:
+♣: A
+♢: T
+♡: 44
+♠: 6
+
+[One Pair]
+
+
+[[Hand 25]]
+Before draw:
+♣: -
+♢: T
+♡: 4
+♠: 56A
+
+[High Card]
+
+After draw:
+♣: 7A
+♢: -
+♡: 5
+♠: 5A
+
+[Two Pair]
+
+
+[[Hand 26]]
+Before draw:
+♣: -
+♢: 4J
+♡: 4J
+♠: K
+
+[Two Pair]
+
+After draw:
+♣: -
+♢: 49J
+♡: 4J
+♠: -
+
+[Two Pair]
+
+
+[[Hand 27]]
+Before draw:
+♣: 7A
+♢: 6K
+♡: -
+♠: A
+
+[One Pair]
+
+After draw:
+♣: 9JA
+♢: -
+♡: -
+♠: 5A
+
+[One Pair]
+
+
+[[Hand 28]]
+Before draw:
+♣: 7
+♢: 48A
+♡: 4
+♠: -
+
+[One Pair]
+
+After draw:
+♣: -
+♢: 4
+♡: 468
+♠: T
+
+[One Pair]
+
+
+[[Hand 29]]
+Before draw:
+♣: -
+♢: -
+♡: 378T
+♠: 9
+
+[High Card]
+
+After draw:
+♣: 5
+♢: -
+♡: 378T
+♠: -
+
+[High Card]
+
+
+[[Hand 30]]
+Before draw:
+♣: QKKA
+♢: 7
+♡: -
+♠: -
+
+[One Pair]
+
+After draw:
+♣: 8KK
+♢: 6
+♡: -
+♠: 3
+
+[One Pair]
+
+
+[[Hand 31]]
+Before draw:
+♣: -
+♢: A
+♡: 348
+♠: 4
+
+[One Pair]
+
+After draw:
+♣: 6T
+♢: -
+♡: 4Q
+♠: 4
+
+[One Pair]
+
+
+[[Hand 32]]
+Before draw:
+♣: 6
+♢: 6K
+♡: 5
+♠: 6
+
+[Three Of A Kind]
+
+After draw:
+♣: 46
+♢: 6
+♡: -
+♠: 56
+
+[Three Of A Kind]
+
+
+[[Hand 33]]
+Before draw:
+♣: -
+♢: TQ
+♡: J
+♠: 8T
+
+[One Pair]
+
+After draw:
+♣: 58
+♢: 4T
+♡: -
+♠: T
+
+[One Pair]
+
+
+[[Hand 34]]
+Before draw:
+♣: 6
+♢: -
+♡: 67Q
+♠: J
+
+[One Pair]
+
+After draw:
+♣: 6
+♢: 4J
+♡: 6T
+♠: -
+
+[One Pair]
+
+
+[[Hand 35]]
+Before draw:
+♣: 9T
+♢: 8T
+♡: 3
+♠: -
+
+[One Pair]
+
+After draw:
+♣: 6T
+♢: TQ
+♡: -
+♠: 8
+
+[One Pair]
+
+
+[[Hand 36]]
+Before draw:
+♣: 8
+♢: 3J
+♡: 89
+♠: -
+
+[One Pair]
+
+After draw:
+♣: 8
+♢: J
+♡: 68
+♠: 9
+
+[One Pair]
+
+
+[[Hand 37]]
+Before draw:
+♣: TA
+♢: 4
+♡: -
+♠: 78
+
+[High Card]
+
+After draw:
+♣: A
+♢: -
+♡: KK
+♠: 9T
+
+[One Pair]
+
+
+[[Hand 38]]
+Before draw:
+♣: 99
+♢: 4A
+♡: -
+♠: 6
+
+[One Pair]
+
+After draw:
+♣: 99J
+♢: -
+♡: 57
+♠: -
+
+[One Pair]
+
+
+[[Hand 39]]
+Before draw:
+♣: -
+♢: 56
+♡: 49
+♠: A
+
+[High Card]
+
+After draw:
+♣: -
+♢: 5Q
+♡: 4
+♠: TA
+
+[High Card]
+
+
+[[Hand 40]]
+Before draw:
+♣: 8
+♢: 38Q
+♡: -
+♠: 3
+
+[Two Pair]
+
+After draw:
+♣: 8
+♢: 38
+♡: -
+♠: 33
+
+[Full House]
+
+
+[[Hand 41]]
+Before draw:
+♣: QKA
+♢: 23
+♡: -
+♠: -
+
+[One Pair]
+
+After draw:
+♣: 7QKA
+♢: 2
+♡: -
+♠: -
+
+[Flush]
+
+
+[[Hand 42]]
+Before draw:
+♣: -
+♢: TT
+♡: 5
+♠: JK
+
+[One Pair]
+
+After draw:
+♣: 4
+♢: 4TT
+♡: 7
+♠: -
+
+[Two Pair]
+
+
+[[Hand 43]]
+Before draw:
+♣: -
+♢: 4Q
+♡: TQ
+♠: Q
+
+[Three Of A Kind]
+
+After draw:
+♣: -
+♢: Q
+♡: 46Q
+♠: Q
+
+[Three Of A Kind]
+
+
+[[Hand 44]]
+Before draw:
+♣: 4
+♢: 8K
+♡: QA
+♠: -
+
+[High Card]
+
+After draw:
+♣: -
+♢: JK
+♡: JKA
+♠: -
+
+[Two Pair]
+
+
+[[Hand 45]]
+Before draw:
+♣: 2QA
+♢: 6
+♡: -
+♠: A
+
+[Three Of A Kind]
+
+After draw:
+♣: 2A
+♢: -
+♡: 8
+♠: TA
+
+[Three Of A Kind]
+
+
+[[Hand 46]]
+Before draw:
+♣: -
+♢: J
+♡: 5A
+♠: 25
+
+[Three Of A Kind]
+
+After draw:
+♣: -
+♢: 7
+♡: 5
+♠: 225
+
+[Four Of A Kind]
+
+
+[[Hand 47]]
+Before draw:
+♣: J
+♢: J
+♡: 23
+♠: J
+
+[Four Of A Kind]
+
+After draw:
+♣: 3J
+♢: J
+♡: 2
+♠: J
+
+[Four Of A Kind]
+
+
+[[Hand 48]]
+Before draw:
+♣: 2
+♢: 77
+♡: 4
+♠: 4
+
+[Full House]
+
+After draw:
+♣: 2
+♢: 77
+♡: 4
+♠: 4
+
+[Full House]
+
+
+[[Hand 49]]
+Before draw:
+♣: 9
+♢: 5
+♡: 2K
+♠: 5
+
+[Three Of A Kind]
+
+After draw:
+♣: 2
+♢: 5K
+♡: 2
+♠: 5
+
+[Four Of A Kind]
+
+
+[[Hand 50]]
+Before draw:
+♣: Q
+♢: 48Q
+♡: -
+♠: 2
+
+[Three Of A Kind]
+
+After draw:
+♣: Q
+♢: Q
+♡: -
+♠: 25J
+
+[Three Of A Kind]
+
+
+[[Hand 51]]
+Before draw:
+♣: -
+♢: A
+♡: 7
+♠: 5JK
+
+[High Card]
+
+After draw:
+♣: 26
+♢: 8A
+♡: -
+♠: K
+
+[One Pair]
+
+
+[[Hand 52]]
+Before draw:
+♣: 8T
+♢: 5
+♡: 6
+♠: 2
+
+[One Pair]
+
+After draw:
+♣: 3
+♢: 9
+♡: 9
+♠: 2Q
+
+[Three Of A Kind]
+
+
+[[Hand 53]]
+Before draw:
+♣: -
+♢: 3
+♡: T
+♠: 237
+
+[Three Of A Kind]
+
+After draw:
+♣: -
+♢: 3A
+♡: 6
+♠: 23
+
+[Three Of A Kind]
+
+
+[[Hand 54]]
+Before draw:
+♣: 2
+♢: 34Q
+♡: -
+♠: 8
+
+[One Pair]
+
+After draw:
+♣: 28
+♢: 4
+♡: KK
+♠: -
+
+[Three Of A Kind]
+
+
+[[Hand 55]]
+Before draw:
+♣: 6
+♢: 69
+♡: 25
+♠: -
+
+[Three Of A Kind]
+
+After draw:
+♣: 6
+♢: 66
+♡: 27
+♠: -
+
+[Four Of A Kind]
+
+
+[[Hand 56]]
+Before draw:
+♣: T
+♢: 78
+♡: -
+♠: 6A
+
+[High Card]
+
+After draw:
+♣: A
+♢: -
+♡: 68
+♠: TA
+
+[One Pair]
+
+
+[[Hand 57]]
+Before draw:
+♣: -
+♢: 6TA
+♡: -
+♠: TQ
+
+[One Pair]
+
+After draw:
+♣: 5J
+♢: T
+♡: -
+♠: 8T
+
+[One Pair]
+
+
+[[Hand 58]]
+Before draw:
+♣: 5J
+♢: 5J
+♡: -
+♠: 4
+
+[Two Pair]
+
+After draw:
+♣: 25J
+♢: 5J
+♡: -
+♠: -
+
+[Full House]
+
+
+[[Hand 59]]
+Before draw:
+♣: 3
+♢: 3
+♡: A
+♠: 79
+
+[One Pair]
+
+After draw:
+♣: 34
+♢: 39
+♡: K
+♠: -
+
+[One Pair]
+
+
+[[Hand 60]]
+Before draw:
+♣: JQ
+♢: -
+♡: 6
+♠: 79
+
+[High Card]
+
+After draw:
+♣: -
+♢: -
+♡: 78JA
+♠: 7
+
+[One Pair]
+
+
+[[Hand 61]]
+Before draw:
+♣: 7
+♢: 8K
+♡: 4
+♠: T
+
+[High Card]
+
+After draw:
+♣: 37T
+♢: K
+♡: 5
+♠: -
+
+[High Card]
+
+
+[[Hand 62]]
+Before draw:
+♣: 59
+♢: Q
+♡: 48
+♠: -
+
+[High Card]
+
+After draw:
+♣: 2
+♢: 9
+♡: A
+♠: 6K
+
+[One Pair]
+
+
+[[Hand 63]]
+Before draw:
+♣: 3QK
+♢: 6
+♡: J
+♠: -
+
+[High Card]
+
+After draw:
+♣: 7
+♢: 223
+♡: 9
+♠: -
+
+[Three Of A Kind]
+
+
+[[Hand 64]]
+Before draw:
+♣: 6K
+♢: Q
+♡: 3
+♠: 7
+
+[High Card]
+
+After draw:
+♣: 8
+♢: 6
+♡: 455
+♠: -
+
+[One Pair]
+
+
+[[Hand 65]]
+Before draw:
+♣: 2
+♢: A
+♡: 2
+♠: 4Q
+
+[Three Of A Kind]
+
+After draw:
+♣: 25
+♢: -
+♡: 2
+♠: 4T
+
+[Three Of A Kind]
+
+
+[[Hand 66]]
+Before draw:
+♣: 77
+♢: -
+♡: K
+♠: TK
+
+[Two Pair]
+
+After draw:
+♣: 77
+♢: -
+♡: KA
+♠: K
+
+[Two Pair]
+
+
+[[Hand 67]]
+Before draw:
+♣: 5
+♢: 8
+♡: 8
+♠: 37
+
+[One Pair]
+
+After draw:
+♣: T
+♢: 89
+♡: 8
+♠: 4
+
+[One Pair]
+
+
+[[Hand 68]]
+Before draw:
+♣: 3
+♢: Q
+♡: 3
+♠: 2T
+
+[Three Of A Kind]
+
+After draw:
+♣: 35
+♢: -
+♡: 3
+♠: 2T
+
+[Three Of A Kind]
+
+
+[[Hand 69]]
+Before draw:
+♣: 679
+♢: 5
+♡: -
+♠: A
+
+[High Card]
+
+After draw:
+♣: 6Q
+♢: -
+♡: -
+♠: 5KA
+
+[High Card]
+
+
+[[Hand 70]]
+Before draw:
+♣: JKA
+♢: 4
+♡: 2
+♠: -
+
+[One Pair]
+
+After draw:
+♣: KA
+♢: Q
+♡: 26
+♠: -
+
+[One Pair]
+
+
+[[Hand 71]]
+Before draw:
+♣: 4JQ
+♢: A
+♡: 2
+♠: -
+
+[One Pair]
+
+After draw:
+♣: Q
+♢: 9A
+♡: 2
+♠: 8
+
+[One Pair]
+
+
+[[Hand 72]]
+Before draw:
+♣: Q
+♢: 7
+♡: 58
+♠: K
+
+[High Card]
+
+After draw:
+♣: 2T
+♢: -
+♡: 37
+♠: 7
+
+[Three Of A Kind]
+
+
+[[Hand 73]]
+Before draw:
+♣: 3T
+♢: -
+♡: Q
+♠: 8K
+
+[High Card]
+
+After draw:
+♣: -
+♢: 6A
+♡: -
+♠: 235
+
+[One Pair]
+
+
+[[Hand 74]]
+Before draw:
+♣: 9A
+♢: 59
+♡: 8
+♠: -
+
+[One Pair]
+
+After draw:
+♣: 9
+♢: 9
+♡: 48
+♠: 7
+
+[One Pair]
+
+
+[[Hand 75]]
+Before draw:
+♣: 237
+♢: -
+♡: -
+♠: 9T
+
+[One Pair]
+
+After draw:
+♣: 23
+♢: -
+♡: -
+♠: 39T
+
+[Three Of A Kind]
+
+
+[[Hand 76]]
+Before draw:
+♣: 4
+♢: -
+♡: 5TA
+♠: 4
+
+[One Pair]
+
+After draw:
+♣: 457A
+♢: -
+♡: -
+♠: 4
+
+[One Pair]
+
+
+[[Hand 77]]
+Before draw:
+♣: J
+♢: -
+♡: -
+♠: 2579
+
+[One Pair]
+
+After draw:
+♣: -
+♢: -
+♡: J
+♠: 2579
+
+[One Pair]
+
+
+[[Hand 78]]
+Before draw:
+♣: 6
+♢: 4J
+♡: -
+♠: 6J
+
+[Two Pair]
+
+After draw:
+♣: 6
+♢: 9J
+♡: -
+♠: 6J
+
+[Two Pair]
+
+
+[[Hand 79]]
+Before draw:
+♣: -
+♢: -
+♡: 7J
+♠: KAA
+
+[One Pair]
+
+After draw:
+♣: 39
+♢: -
+♡: -
+♠: JAA
+
+[One Pair]
+
+
+[[Hand 80]]
+Before draw:
+♣: Q
+♢: 267
+♡: 8
+♠: -
+
+[One Pair]
+
+After draw:
+♣: 48
+♢: 27
+♡: 8
+♠: -
+
+[Three Of A Kind]
+
+
+[[Hand 81]]
+Before draw:
+♣: -
+♢: 3
+♡: TJQ
+♠: J
+
+[One Pair]
+
+After draw:
+♣: -
+♢: T
+♡: 6J
+♠: 9J
+
+[One Pair]
+
+
+[[Hand 82]]
+Before draw:
+♣: -
+♢: 258T
+♡: -
+♠: 7
+
+[One Pair]
+
+After draw:
+♣: 8
+♢: 258T
+♡: -
+♠: -
+
+[Three Of A Kind]
+
+
+[[Hand 83]]
+Before draw:
+♣: 3
+♢: JA
+♡: 4
+♠: 9
+
+[High Card]
+
+After draw:
+♣: 4Q
+♢: A
+♡: 5
+♠: 6
+
+[High Card]
+
+
+[[Hand 84]]
+Before draw:
+♣: -
+♢: Q
+♡: 8J
+♠: TT
+
+[One Pair]
+
+After draw:
+♣: J
+♢: -
+♡: 49
+♠: TT
+
+[One Pair]
+
+
+[[Hand 85]]
+Before draw:
+♣: 7
+♢: QK
+♡: -
+♠: 89
+
+[High Card]
+
+After draw:
+♣: -
+♢: 3Q
+♡: 6K
+♠: Q
+
+[One Pair]
+
+
+[[Hand 86]]
+Before draw:
+♣: 255T
+♢: -
+♡: -
+♠: 8
+
+[Three Of A Kind]
+
+After draw:
+♣: 255
+♢: 29
+♡: -
+♠: -
+
+[Four Of A Kind]
+
+
+[[Hand 87]]
+Before draw:
+♣: -
+♢: 26
+♡: J
+♠: 9K
+
+[One Pair]
+
+After draw:
+♣: 6
+♢: 25
+♡: 7
+♠: 6
+
+[Three Of A Kind]
+
+
+[[Hand 88]]
+Before draw:
+♣: J
+♢: 4Q
+♡: -
+♠: 27
+
+[One Pair]
+
+After draw:
+♣: 9
+♢: -
+♡: T
+♠: 2TT
+
+[Four Of A Kind]
+
+
+[[Hand 89]]
+Before draw:
+♣: 5
+♢: 3
+♡: 29
+♠: A
+
+[One Pair]
+
+After draw:
+♣: -
+♢: 7
+♡: 29T
+♠: A
+
+[One Pair]
+
+
+[[Hand 90]]
+Before draw:
+♣: 4
+♢: -
+♡: 3
+♠: 8QK
+
+[High Card]
+
+After draw:
+♣: 3
+♢: 6
+♡: Q
+♠: 23
+
+[Three Of A Kind]
+
+
+[[Hand 91]]
+Before draw:
+♣: 6K
+♢: 4J
+♡: -
+♠: 5
+
+[High Card]
+
+After draw:
+♣: -
+♢: 4
+♡: A
+♠: 5JJ
+
+[One Pair]
+
+
+[[Hand 92]]
+Before draw:
+♣: -
+♢: 3TK
+♡: T
+♠: 3
+
+[Two Pair]
+
+After draw:
+♣: -
+♢: 33T
+♡: T
+♠: 3
+
+[Full House]
+
+
+[[Hand 93]]
+Before draw:
+♣: 2J
+♢: 5
+♡: K
+♠: K
+
+[Three Of A Kind]
+
+After draw:
+♣: 2Q
+♢: -
+♡: KK
+♠: K
+
+[Four Of A Kind]
+
+
+[[Hand 94]]
+Before draw:
+♣: A
+♢: 5
+♡: 56
+♠: A
+
+[Two Pair]
+
+After draw:
+♣: A
+♢: 5
+♡: 5
+♠: 2A
+
+[Full House]
+
+
+[[Hand 95]]
+Before draw:
+♣: 3J
+♢: -
+♡: 56
+♠: 4
+
+[High Card]
+
+After draw:
+♣: 6J
+♢: -
+♡: 56
+♠: 4
+
+[One Pair]
+
+
+[[Hand 96]]
+Before draw:
+♣: 9A
+♢: -
+♡: 36Q
+♠: -
+
+[High Card]
+
+After draw:
+♣: 5A
+♢: -
+♡: QKA
+♠: -
+
+[One Pair]
+
+
+[[Hand 97]]
+Before draw:
+♣: 5
+♢: -
+♡: 39K
+♠: 7
+
+[High Card]
+
+After draw:
+♣: 7
+♢: 2
+♡: 9
+♠: 89
+
+[Three Of A Kind]
+
+
+[[Hand 98]]
+Before draw:
+♣: -
+♢: 2Q
+♡: 2
+♠: 69
+
+[Three Of A Kind]
+
+After draw:
+♣: 9
+♢: 2
+♡: 255
+♠: -
+
+[Four Of A Kind]
+
+
+[[Hand 99]]
+Before draw:
+♣: 47A
+♢: -
+♡: -
+♠: 58
+
+[High Card]
+
+After draw:
+♣: 8A
+♢: -
+♡: 2TQ
+♠: -
+
+[One Pair]
+
+

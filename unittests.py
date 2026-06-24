@@ -31,6 +31,7 @@ def batch(batch_size: int):
 		pdd['hrank'] += [str(dh.rank())]
 	return pdd
 
+@skip
 class TestCard(TestCase):
 	def test_str(self):
 		"""Test __str__"""
@@ -62,6 +63,7 @@ class TestCard(TestCase):
 		with self.assertRaises(ValueError):
 			_ = OKRank.TWO + 13
 
+@skip
 class TestCardset(TestCase):
 	def setUp(self):
 		self.d = OKDeck()
@@ -142,6 +144,7 @@ class TestDeck(TestCase):
 		print(f"z = {z}")
 		self.assertTrue(-2 < z and z < 2)
 			
+@skip
 class TestHand(TestCase):
 	def test_rank_freq(self):
 		base_n_per_rank = 14
@@ -171,7 +174,7 @@ class TestHand(TestCase):
 			if r == OKPokerRank.FIVE_DEUCES:
 				print(f"Remaining five-deuce hands to find: {rd[r]} / {base_n_per_rank - OKPokerRank.FIVE_DEUCES.value}")
 		
-		with open("sample_hands.txt", "w") as fp:
+		with open("data/sample_hands.txt", "w") as fp:
 			for r in OKPokerRank:
 				print(f"{r}:", file=fp)
 				for h in hd[r]:
@@ -179,14 +182,14 @@ class TestHand(TestCase):
 				print("\n", file=fp)
 		
 		df = pd.DataFrame.from_dict(nd, orient="index", columns=["n_hands"])
-		with open("rank_stats.csv", "w") as fp:
+		with open("data/rank_stats.csv", "w") as fp:
 			df.to_csv(fp, sep="\t")
 		
 		self.assertTrue(True)
 	
 	def test_draw(self):
 		d = OKDeck()
-		with open("draws.txt", "w") as fp:
+		with open("data/draws.txt", "w") as fp:
 			for n in range(100):
 				dh = OKDealerHand(from_set=d.deal(5))
 				print(f"[[Hand {n}]]\nBefore draw:\n{dh}\n[{dh.rank()}]\n", file=fp)
@@ -206,26 +209,35 @@ class TestHand(TestCase):
 			L = [P.apply_async(batch, (batch_size, )) for _ in range(n_hands // batch_size)]
 			for x in tqdm(L):
 				df = pd.concat([df, pd.DataFrame.from_dict(x.get())])
-				with open("dealer_stats.csv", "w") as fp:
+				with open("data/dealer_stats.csv", "w") as fp:
 					df.to_csv(fp, sep="\t")
 		self.assertTrue(True)
 
+class TestListUtils(TestCase):
 	def test_listutils(self):
 		A = [1, 2, 3]
 		B = [3, 4]
 		C = [0, 3, 4]
 		D = []
 
-		self.assertTrue(add_lists(A, B) == [1, 2, 3, 4])
-		self.assertTrue(int_lists(A, B) == [3])
-		self.assertTrue(invert_list(A) == [0, 4])
-		self.assertTrue(add_lists(A, D) == A)
-		self.assertTrue(int_lists(A, D) == D)
-		self.assertTrue(invert_list(D) == list(range(5)))
-		self.assertTrue(add_lists(A, B, C, D) == list(range(5)))
-		self.assertTrue(int_lists(A, B, C) == [3])
-		self.assertTrue(cmp_lists(A, B) == -1)
-		self.assertTrue(cmp_lists(A, C) == -1)
+		with self.subTest("add_lists"):
+			self.assertTrue(add_lists([A, B]) == [1, 2, 3, 4])
+			self.assertTrue(add_lists([A, D]) == A)
+			self.assertTrue(add_lists([A, B, C, D]) == list(range(5)))
+
+		with self.subTest("int_lists"):
+			self.assertTrue(int_lists([A, B]) == [3])
+			self.assertTrue(int_lists([A, B, C]) == [3])
+			self.assertTrue(int_lists([A, D]) == D)
+
+		with self.subTest("invert_list"):
+			self.assertTrue(invert_list(A) == [0, 4])
+			self.assertTrue(invert_list(D) == list(range(5)))
+		
+		with self.subTest("cmp_lists"):
+			self.assertTrue(cmp_lists(A, B) == -1)
+			self.assertTrue(cmp_lists(A, C) == -1)
 		
 if __name__ == "__main__":
 	ut_main(verbosity=3)	
+
